@@ -1,0 +1,16 @@
+# 키 금고 (.env.example 만 올림)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit (secrets.toml 에 키가 들어갈 수 있음)
+.streamlit/secrets.toml
+
+# Claude Code 개인 설정
+.claude/settings.local.json

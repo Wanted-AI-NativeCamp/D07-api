@@ -1,0 +1,9 @@
+# lotto.py 는 파이썬 표준 라이브러리(random, tkinter, datetime)만 사용하므로
+# 별도로 설치할 외부 패키지가 없습니다.
+# Python 3.12 이상 권장 (conda create -n camp python=3.12 -y)
+
+datetime
+streamlit
+requests
+python-dotenv
+openai
