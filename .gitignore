@@ -14,3 +14,6 @@ venv/
 
 # Claude Code 개인 설정
 .claude/settings.local.json
+
+# 수업 자료 (깃허브에 올리지 않음)
+docs/
